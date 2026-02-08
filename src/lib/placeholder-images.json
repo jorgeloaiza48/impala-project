@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A vibrant market scene with fresh produce.",
+      "imageUrl": "https://images.unsplash.com/photo-1668434484139-8107ef23c922?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZnJlc2glMjBwcm9kdWNlJTIwbWFya2V0fGVufDB8fHx8MTc3MDU2MjYzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh produce market"
+    }
+  ]
 }
