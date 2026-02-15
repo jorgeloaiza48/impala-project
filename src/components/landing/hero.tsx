@@ -3,6 +3,7 @@ import { Button } from '@/components/ui/button';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import Link from 'next/link';
 
+
 export function Hero() {
   const heroImage = PlaceHolderImages.find(img => img.id === 'hero-background');
 
@@ -10,7 +11,7 @@ export function Hero() {
     <section className="relative h-[80vh] min-h-[500px] w-full">
       {heroImage && (
         <Image
-          src={heroImage.imageUrl}
+          src='/logo2_impala.png'
           alt={heroImage.description}
           fill
           className="object-cover"
