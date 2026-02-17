@@ -11,7 +11,7 @@ export function Hero() {
     <section className="relative h-[80vh] min-h-[500px] w-full">
       {heroImage && (
         <Image
-          src='/logo2_impala.png'
+          src='/logo_impala.jpeg'
           alt={heroImage.description}
           fill
           className="object-cover"
